@@ -1,0 +1,6 @@
+framework module Pods_RigelPracticeTest {
+  umbrella header "Pods-RigelPracticeTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
